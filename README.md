@@ -1,23 +1,22 @@
-# 💻 Zeinab Ali — Front-End Developer | Computer Vision Enthusiast
+💻 Zeinab Ali — Front-End Developer | React.js & Next.js Developer
 
-Welcome to my GitHub! I'm a passionate **Front-End Developer** and an explorer in the field of **Computer Vision**. I love turning ideas into interactive and visually appealing web experiences.
+Front-End Developer passionate about building responsive, scalable, and user-friendly web applications using modern JavaScript frameworks. Experienced in React.js, Next.js, and React Native with a strong focus on performance, clean UI, and API integration.
 
-## 🌐 Portfolio
-Check out my portfolio projects hosted on Vercel and GitHub.
+🌐 Portfolio:
+Explore my projects built with React, Next.js, and React Native (available on GitHub & Vercel).
 
-## 🛠️ Tech Stack
-Here are the technologies and tools I work with:
+🛠️ Tech Stack:
+• Languages: HTML5, CSS3, JavaScript (ES6+), TypeScript
+• Frameworks: React.js, Next.js, React Native
+• Styling: Tailwind CSS, Bootstrap
+• Tools: Git, GitHub, Vercel
+• APIs: REST APIs, Axios
 
-- 💡 **Languages:** HTML, CSS, JavaScript, JSX  
-- 🎨 **Frameworks & Libraries:** React, Bootstrap, Tailwind CSS, Font Awesome  
-- ⚙️ **Tools & Platforms:** Git, GitHub, Vercel  
-- 🤖 **Special Interests:** Computer Vision (OpenCV, image processing basics, and more...)
+🤖 Interests:
+Computer Vision (OpenCV, image processing basics)
 
+📫 Contact:
+Email: safaali8118@gmail.com  
+LinkedIn: linkedin.com/in/zeinab-ali-a2b89b204
 
-## 📫 Contact Me
-
-- 📧 Email: [safaali8118@gmail.com](mailto:safaali8118@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/zeinab-ali-a2b89b204](https://www.linkedin.com/in/zeinab-ali-a2b89b204/)
-
-
-Feel free to reach out for collaborations, coding talk, or just to say hi! 😊
+Feel free to explore my repositories and connect for collaboration or opportunities.
